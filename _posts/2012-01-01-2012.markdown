@@ -1,0 +1,12 @@
+---  
+date: 2012-01-01 04:04:59+00:00  
+slug: '2012'  
+title: '> 2012'  
+tags:  
+- gg  
+- gggg  
+- o/  
+- vida  
+---  
+  
+![2012](http://i.imgur.com/EsRK9.jpg)  
