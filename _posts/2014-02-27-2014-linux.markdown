@@ -1,7 +1,7 @@
 ---  
 date: 2014-02-27 00:34:00-03:00  
 slug: '2014-linux'  
-title: 'windows - gnu/linux. [REVISITED]'
+title: 'windows - gnu/linux. [REVISITED]'  
 tags:  
 - internerds  
 ---  
