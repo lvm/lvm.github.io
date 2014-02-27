@@ -9,6 +9,7 @@ tags:
   
 Hay una diferencia importante entre escribir palabras en mayusculas y palabras en minuscula.  
 Por lo general, prefiero las tipografias 'monospaced', pero en este otro tipo hay ciertas palabras que parecen mini dibujitos. Ahá.  
+  
 ```
 Jhavn  
 hahYdbocd_pO098369o;,,,,,,,,.!  
