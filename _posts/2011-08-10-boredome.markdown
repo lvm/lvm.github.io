@@ -1,4 +1,5 @@
----  
+
+---
 date: 2011-08-10 02:30:30+00:00  
 slug: boredome  
 title: boredome.  
@@ -7,6 +8,7 @@ tags:
 - etc  
 - rants  
 - vida  
----  
+
+---
   
 me aburri de la vida.  

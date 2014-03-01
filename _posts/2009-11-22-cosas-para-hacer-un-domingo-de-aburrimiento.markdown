@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-11-22 23:42:00+00:00  
 slug: cosas-para-hacer-un-domingo-de-aburrimiento  
 title: Cosas para hacer un domingo de aburrimiento  
@@ -6,7 +7,8 @@ tags:
 - diy  
 - hacks  
 - reciclar  
----  
+
+---
   
 Por lo general, la gente como uno (?) suele tener muchas porquerias guardadas en una caja, porque bueno, quizas pueden llegar a servir (?), y justamente este es el caso!  
 Revisemos:  

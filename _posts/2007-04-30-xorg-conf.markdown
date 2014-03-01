@@ -1,10 +1,12 @@
----  
+
+---
 date: 2007-04-30 09:42:00+00:00  
 slug: xorg-conf  
 title: xorg.conf  
 tags:  
 - debian-es  
----  
+
+---
   
 acabo de postear en [xorg-conf.org](http://www.xorg-conf.org) mi xorg.conf (duh).    
 cualquiera que lo necesite esta [aca](http://aleks.vigio.pl/?lang=eng&page=show&id=176)    

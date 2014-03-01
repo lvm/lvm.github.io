@@ -1,4 +1,5 @@
----  
+
+---
 date: 2010-08-24 22:32:00+00:00  
 slug: los-brujos-no-se-hacen-problema-porque-vienen-de-otro-planeta  
 title: los brujos no se hacen problema porque vienen de otro planeta.  
@@ -9,7 +10,8 @@ tags:
 - muzzak  
 - nihongo  
 - pasatiempo  
----  
+
+---
   
 Luego de años de escuchar la frase del titulo de esta entrada (pero en japones) al inicio de la cancion "Psicosis Total" del disco "Guerra de Nervios" de la banda "Los Brujos", finalmente puedo hacer una pseudo traduccion y explicar que es lo que significa.  
 Hay que tener en cuenta que mi nivel de japones no es el mas alto sino mas bien basico :-)  

@@ -1,11 +1,13 @@
----  
+
+---
 date: 2009-04-13 09:02:00+00:00  
 slug: configurando-el-brillo-de-tu-laptop-con-bash-zenity  
 title: Configurando el brillo de tu laptop con bash + zenity  
 tags:  
 - debian-es  
 - pasatiempo  
----  
+
+---
   
 Hace un rato estaba navegando(?) por internet y me encontre con una aplicacion un tanto copada: [f.lux](http://stereopsis.com/flux/).     
   

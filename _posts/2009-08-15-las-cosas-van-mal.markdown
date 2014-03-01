@@ -1,11 +1,13 @@
----  
+
+---
 date: 2009-08-15 18:11:00+00:00  
 slug: las-cosas-van-mal  
 title: las cosas van mal  
 tags:  
 - debian-es  
 - pasatiempo  
----  
+
+---
   
 cuando pasan cosas como esta:  
   

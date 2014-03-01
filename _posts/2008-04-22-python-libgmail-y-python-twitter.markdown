@@ -1,4 +1,5 @@
----  
+
+---
 date: 2008-04-22 03:19:00+00:00  
 slug: python-libgmail-y-python-twitter  
 title: python-libgmail y python-twitter  
@@ -6,7 +7,8 @@ tags:
 - debian-es  
 - pasatiempo  
 - python  
----  
+
+---
   
 Hoy estoy alegre (?), asi que les voy a tirar dos tips mas que interesantes:    
 El primero utilizando [python-libgmail](http://libgmail.sourceforge.net/), que como podran imaginarse hace magia con gmail. Si tienen la suerte (?) de usar debian o sus derivados, podran ver que en _/usr/share/doc/python-libgmail/examples/_ van a encontrar unos cuantos ejemplos ya completos y listos para usar, hackear y re-usar en sus proyectos.    

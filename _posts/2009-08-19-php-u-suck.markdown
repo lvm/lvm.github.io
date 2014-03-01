@@ -1,11 +1,13 @@
----  
+
+---
 date: 2009-08-19 01:03:00+00:00  
 slug: php-u-suck  
 title: php, u suck  
 tags:  
 - programadores  
 - rants  
----  
+
+---
   
 Recien hablando con un amigo diseñador y tratando de explicarle algo tan sencillo como sacar una posicion al azar en php, todo se complico a la hora de explicarle que count() empieza a contar desde 1 y las arrays (normalmente) arrancan desde 0.  
 Si bien el chabon no tiene mucha idea de programacion, ese no es el problema, sino:  

@@ -1,4 +1,5 @@
----  
+
+---
 date: 2010-03-29 18:49:00+00:00  
 slug: drawing-with-css  
 title: Drawing with CSS.  
@@ -10,7 +11,8 @@ tags:
 - diseño  
 - logo  
 - programadores  
----  
+
+---
   
 I've been watching several people drawing random figures with only CSS and letters, [Román Cortés](http://www.romancortes.com/) in particular, who made Homer Simpson, an Origami Crane (bird), a "3D" can of Coke among other stuff.  
 The other day I was bored and with some free time so I "drew" the Debian logo :-)  

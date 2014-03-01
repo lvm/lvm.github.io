@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-11-08 15:54:00+00:00  
 slug: faith-no-more-the-second-coming-tour  
 title: Faith no more, the second coming tour.  
@@ -7,7 +8,8 @@ tags:
 - musica  
 - o/  
 - punk  
----  
+
+---
   
 Una semana atras a una hora similar a esta misma, estaba partiendo hacia zona norte, mas precisamente al (ex-)estadio Obras donde se hacia el Popsi music. Fecha en la que tocaria una de las mejores bandas que escuche en la vida: Faith No More.  
 Esta vez, a diferencia del viernes anterior donde tocaba Prodigy y una sarta de muertos con guitarras colgandoles, llegue mucho mas temprano, casi a la hora que empezaba la fecha, ya que mi intension era ver a Def Con Dos, banda con la que siempre tuve una pseudo-relacion de amor-y-odio: cada vez que los escuchaba, se me rompia un hd. Es verdad. No creo en la suerte o en amigos imaginarios con titulos divinos, pero por el otro lado si creo en esto. Escuchar DC2 me rompe los discos rigidos (o discos duros, dependiendo el pais). Aun sabiendo que algo *raro* podria pasarme si los escuchara en vivo, como que se me se rompa una pierna o algo asi de desgraciado, me aventure e intente llegar a tiempo, como suele sucederme, no llegue a tiempo. Habian terminado hacia 10 minutos cuando arribe al lugar.   

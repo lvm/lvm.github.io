@@ -1,10 +1,12 @@
----  
+
+---
 date: 2006-10-11 00:00:00+00:00  
 slug: var-ie_is_a_fucking_shit  
 title: var IE_IS_A_FUCKING_SHIT  
 tags:  
 - programadores  
----  
+
+---
   
      
     320:   td.className = "icon";    

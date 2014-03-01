@@ -1,4 +1,5 @@
----  
+
+---
 date: 2010-07-28 01:49:00+00:00  
 slug: que-hacer-cuando-estamos-aburridos  
 title: Que hacer cuando estamos aburridos?  
@@ -8,7 +9,8 @@ tags:
 - debian-es  
 - fun  
 - javascript  
----  
+
+---
   
 Un juego!  
 O casi.  

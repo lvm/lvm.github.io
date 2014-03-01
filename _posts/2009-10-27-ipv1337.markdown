@@ -1,10 +1,12 @@
----  
+
+---
 date: 2009-10-27 08:07:00+00:00  
 slug: ipv1337  
 title: IPv1337  
 tags:  
 - etc  
 - funny  
----  
+
+---
   
 ![FUCK YEAH INTERWEB](http://cacavoladora.org/img/IP.jpg)  

@@ -1,11 +1,13 @@
----  
+
+---
 date: 2005-05-08 00:28:00+00:00  
 slug: deambulando-en-imdb  
 title: deambulando en imdb (?)  
 tags:  
 - peliculas  
 - tv  
----  
+
+---
   
 revisando [internet movie database](http://www.imdb.com/) encontre un par de datos curiosos (?)    
     

@@ -1,11 +1,13 @@
----  
+
+---
 date: 2007-08-24 03:43:00+00:00  
 slug: ibook-nueva  
 title: ibook "nueva"  
 tags:  
 - debian-es  
 - ppc  
----  
+
+---
   
 Hara.. menos de una semana me compre una ibook g3 (de las New World), porque estaba con ganas de comprar una maquinita asi pequenia para llevar a todos lados ya que ultimamente estoy poco tiempo en mi casa, y la otra laptop que tengo.. es un poco "pesada" (?). Estaba en caprichoso, digamos.    
     

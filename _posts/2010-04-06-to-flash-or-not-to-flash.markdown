@@ -1,4 +1,5 @@
----  
+
+---
 date: 2010-04-06 03:15:00+00:00  
 slug: to-flash-or-not-to-flash  
 title: To Flash or not to Flash  
@@ -8,7 +9,8 @@ tags:
 - flash  
 - internerds  
 - rants  
----  
+
+---
   
 Mientras (supuestamente) todos en internet, sobretodo los usuarios de GNU/Linux, nos quejamos de lo mal que anda Adobe Flash, de lo molesto que es que todo ande lento con Flash y demas etceteras; una de las grandes contras que le encuentran al iPad es que no tiene soporte para Flash.   
 Pero pensemos por un momento justamente en eso, si la idea es _deprecar_ al Flash por HTML5, no es precisamente lo que estamos necesitando? es decir, alguien que impulse a _gran_ escala la falta de soporte de esta tecnologia mal desarrollada (al menos, para nosotros, los usuarios de GNU/Linux)?  

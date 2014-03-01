@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-11-08 17:27:00+00:00  
 slug: die-toten-hosen-magical-mystery-tour  
 title: Die Toten Hosen, magical mystery tour  
@@ -7,7 +8,8 @@ tags:
 - musica  
 - o/  
 - punk  
----  
+
+---
   
 Y justo cuando habia sentido que si hubiera aguantado un poco mas, hubiera visto una buena banda en vivo, el miercoles pasado me entere que tocaba Die Toten Hosen *gratis* en el medio de la calle (!), a traves de un [flyer](http://www.dth.com.ar/news/news0007.jpg) que recorrio todas las internets habidas y por haber en cuestion de un dia, invitando a todos a acercarse en son de paz para celebrar la caida del muro de Berlin 20 años atras.   
 Y como estaba cerca, aproveche para acercarme y sacarme las ganas de escucharlos, una vez mas.  

@@ -1,4 +1,5 @@
----  
+
+---
 date: 2011-08-16 03:36:22+00:00  
 slug: ppc  
 title: ppc  
@@ -6,7 +7,8 @@ tags:
 - o/  
 - ppc  
 - vida  
----  
+
+---
   
 hace 4 años [0] atras me [habia comprado una ibook](http://lvmn.wordpress.com/2007/08/24/ibook-nueva/).  
 hoy me compre otra (?), solo que esta vez es una powerbook g4, perfecta para leer el mail a la mañana (?).  

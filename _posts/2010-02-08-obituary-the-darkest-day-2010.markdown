@@ -1,4 +1,5 @@
----  
+
+---
 date: 2010-02-08 21:46:00+00:00  
 slug: obituary-the-darkest-day-2010  
 title: Obituary - The Darkest Day 2010  
@@ -6,7 +7,8 @@ tags:
 - deathmetal  
 - musica  
 - shows  
----  
+
+---
   
 Iba a escribir algo mas largo del recital de Obituary el jueves pasado, pero la verdad que ni ganas, les dejo unas fotos que saque entre cancion y cancion cuando paraba de revolear la peluca un rato [0].  
   

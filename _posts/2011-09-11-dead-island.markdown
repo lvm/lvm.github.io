@@ -1,4 +1,5 @@
----  
+
+---
 date: 2011-09-11 07:27:50+00:00  
 slug: dead-island  
 title: dead island.  
@@ -8,7 +9,8 @@ tags:
 - rants  
 - video juegos  
 - wat  
----  
+
+---
   
 Finalmente salio el 'juego nuevo' de zombies. El que tenia este video re copado:  
   

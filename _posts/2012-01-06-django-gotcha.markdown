@@ -1,4 +1,5 @@
----  
+
+---
 date: 2012-01-06 18:27:16+00:00  
 slug: django-gotcha  
 title: django gotcha.  
@@ -6,7 +7,8 @@ tags:
 - django  
 - programadores  
 - python  
----  
+
+---
   
 Resulta que necesitaba verificar si una variable era mayor a N, pero Django en el "request context" convierte a las variables a string, independiente de si en el views.py era un nro entero.  
 Por lo que al querer hacer el checkeo este siempre fallaba, sin embargo hay un peque#o 'workaround': el filtro "add" [0].  

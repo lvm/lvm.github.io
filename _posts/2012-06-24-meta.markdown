@@ -1,4 +1,5 @@
----  
+
+---
 date: 2012-06-24 19:54:48+00:00  
 slug: meta  
 title: meta  
@@ -7,7 +8,8 @@ tags:
 - irc  
 - o/  
 - vida  
----  
+
+---
   
 (16:41:31) aaa: !saletrivia  
 (16:41:33) iRCbot: SALE TRIVIA?  

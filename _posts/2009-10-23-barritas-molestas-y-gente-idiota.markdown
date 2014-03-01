@@ -1,10 +1,12 @@
----  
+
+---
 date: 2009-10-23 08:42:00+00:00  
 slug: barritas-molestas-y-gente-idiota  
 title: Barritas molestas y gente idiota  
 tags:  
 - rants  
----  
+
+---
   
 Dear Lazyweb:  
   

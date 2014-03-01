@@ -1,4 +1,5 @@
----  
+
+---
 date: 2011-09-13 21:43:35+00:00  
 slug: diamond-darrell  
 title: diamond darrell  
@@ -9,7 +10,8 @@ tags:
 - muzzak  
 - o/  
 - vida  
----  
+
+---
   
   
  [video](http://www.youtube.com/embed/-briqrNRorQ)  

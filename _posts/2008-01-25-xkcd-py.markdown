@@ -1,4 +1,5 @@
----  
+
+---
 date: 2008-01-25 04:20:00+00:00  
 slug: xkcd-py  
 title: xkcd.py  
@@ -6,7 +7,8 @@ tags:
 - debian-es  
 - pasatiempo  
 - python  
----  
+
+---
   
 Hace un tiempo largo en irc habian propuesto hacer un _bajador_ de imagenes de [xkcd.com](http://xkcd.com) y luego mostrarlas.. un visor de comics en pocas palabras, en ese momento yo habia hecho uno en bash que era un desastre (pero funcionaba :D), pero la idea igualmente era que estuviera hecho en python. El tiempo paso y esa idea quedo desvanecida totalmente.. hasta hoy! (?) que me encontraba con bastante tiempo libre y ganas de programar alguna boludez simpatica con pygame, asi que sin mas aca los dejo con [xkcd.py](http://mlizaur.unixpod.com/py/xkcdpy/xkcd.py) *charannn*    
 Basicamente lo que hace es bajar el ultimo comic de xkcd y mostrarlo en una ventanita. Tiene la opcion de guardar los comics o no, en caso de que los guardemos y ya tengamos al ultimo comic  directamente lo lee del dir donde lo guardamos, de lo contrario lo guarda en algun archivo temporal (el cual se puede definir, como casi todo ;))    

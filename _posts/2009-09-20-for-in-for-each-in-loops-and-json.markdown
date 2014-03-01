@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-09-20 05:18:00+00:00  
 published: false  
 slug: for-in-for-each-in-loops-and-json  
@@ -7,7 +8,8 @@ tags:
 - english  
 - javascript  
 - programadores  
----  
+
+---
   
 Inauguring the _english_ side of my log, here's a simple explanation+tip that I wrote a couple of days ago on my [wiki^Wsite](http://lizaur.github.com/jsTips.html)  
   

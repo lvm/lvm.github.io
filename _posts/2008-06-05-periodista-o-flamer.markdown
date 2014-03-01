@@ -1,11 +1,13 @@
----  
+
+---
 date: 2008-06-05 06:33:00+00:00  
 slug: periodista-o-flamer  
 title: periodista o flamer?  
 tags:  
 - debian-es  
 - rants  
----  
+
+---
   
 Un periodista del diario [La Nacion](http://lanacion.com.ar) hace unos dias [publico un articulo](http://www.lanacion.com.ar/tecnologia/nota.asp?nota_id=1017063) titulado "**El  Desastre Debian  nos afectará por años**" sobre el [problema de seguridad de OpenSSL/OpenSSH en Debian](http://www.debian.org/security/2008/dsa-1571).    
     

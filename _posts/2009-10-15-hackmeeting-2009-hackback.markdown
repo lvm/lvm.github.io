@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-10-15 19:14:00+00:00  
 slug: hackmeeting-2009-hackback  
 title: Hackmeeting 2009 - Hackback  
@@ -7,7 +8,8 @@ tags:
 - debian-es  
 - eventos  
 - hackmeeting  
----  
+
+---
   
 Este fin de semana pasado se celebraron hackmeetings en Chile, Italia, España y Mexico, de los cuales participe en el de .cl, donde tuve la oportunidad de conocer algunos personajes que rondan el IRC y otros desconocidos mas :-)  
 Todo esto se realizo en la [kernelhouse](http://kernelhouse.org) donde hubo temas realmente variados:   

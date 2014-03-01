@@ -1,4 +1,5 @@
----  
+
+---
 date: 2012-03-31 20:30:46+00:00  
 slug: como-programar  
 title: como programar.  
@@ -7,7 +8,8 @@ tags:
 - pasatiempo  
 - programadores  
 - vida  
----  
+
+---
   
 Programar no es simplemente escribir codigo, sino que va mas alla. La personalidad del individuo define al codigo que escribimos y como lo escribimos. Un mal dia puede hacer la peor de las catastrofes y un excelente dia puede terminar con mas de 10K LOC de una pasada (si, son unas cuantas horas, pero 10k LOC al fin).  
 Las batallas snobs entre windows/linux/mac o vim/emacs/gedit/kate/microsoft visual studio design dot net pro edition son, a pesar de muy divertidas, totalmente obviables a la hora de reproducir en caracteres la manera en la que enfrentamos un problema; uno deberia utilizar a las herramientas que mas comodas le resulten.  

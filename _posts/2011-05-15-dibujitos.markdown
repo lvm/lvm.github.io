@@ -1,11 +1,13 @@
----  
+
+---
 date: 2011-05-15 10:28:49+00:00  
 slug: dibujitos  
 title: dibujitos  
 tags:  
 - gggg  
 - o/  
----  
+
+---
   
 Hay una diferencia importante entre escribir palabras en mayusculas y palabras en minuscula.  
 Por lo general, prefiero las tipografias 'monospaced', pero en este otro tipo hay ciertas palabras que parecen mini dibujitos. Ahá.  

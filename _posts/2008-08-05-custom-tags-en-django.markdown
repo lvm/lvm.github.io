@@ -1,4 +1,5 @@
----  
+
+---
 date: 2008-08-05 05:29:00+00:00  
 slug: custom-tags-en-django  
 title: custom tags en django  
@@ -7,7 +8,8 @@ tags:
 - guia  
 - programadores  
 - python  
----  
+
+---
   
 Luego de combatir durante un rato largo y encontrar poca documentacion los custom tags en django, paso a escribir un resumen de **como crearlos**:    
     

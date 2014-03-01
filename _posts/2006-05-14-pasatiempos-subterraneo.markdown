@@ -1,10 +1,12 @@
----  
+
+---
 date: 2006-05-14 03:00:00+00:00  
 slug: pasatiempos-subterraneo  
 title: pasatiempos subterraneo.  
 tags:  
 - pasatiempo  
----  
+
+---
   
 en un principio fue casualidad, pero ultimamente se esta tornando un hobby (?).    
 si fuera por mi haria que esto fuera un deporte extremo (junto con cruzar las calles en el microcentro en hora pico)    

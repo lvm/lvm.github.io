@@ -1,11 +1,13 @@
----  
+
+---
 date: 2009-10-31 14:57:00+00:00  
 slug: caretaje-music-parte-1  
 title: Caretaje Music -parte 1-  
 tags:  
 - musica  
 - rants  
----  
+
+---
   
 Hay muchas cosas que no entiendo de la vida, demasiadas para mi gusto, entre las cuales se encuentra esa actitud de "rockero cool".  
 Por ejemplo, ayer estaba en un recital de estos que tocan mil bandas de mierda, una decente y una banda por la que pague la entrada, y mientras me fumaba una de las bandas de mierda (de ahora en mas: "Los Infumables") y me aburria como pocas veces, por lo que me puse a mirar como la mayoria de los personajes que daban vueltas se comportaban como si fueran Susana Gimenez o alguna diva del estilo.  

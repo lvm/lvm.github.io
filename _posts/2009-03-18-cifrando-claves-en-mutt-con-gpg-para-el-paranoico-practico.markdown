@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-03-18 22:51:00+00:00  
 slug: cifrando-claves-en-mutt-con-gpg-para-el-paranoico-practico  
 title: Cifrando claves en mutt con gpg, para el paranoico practico  
@@ -6,7 +7,8 @@ tags:
 - debian-es  
 - guia  
 - pasatiempo  
----  
+
+---
   
 Algunos de los que me conocen saben que suelo tener manias un tanto paranoides con respecto a cosas que considero *importantes*, una de ellas son mis claves de los correos electronicos.    
 Por lo que desde hace un tiempo puse en practica una manera de poder tener mis claves en el archivo .muttrc y al mismo tiempo cifradas, ya que si bien las podria escribir cada vez que abro mutt, algunas son un poco mas largas de lo que realmente me gustaria escribir para leer los mails :-)    

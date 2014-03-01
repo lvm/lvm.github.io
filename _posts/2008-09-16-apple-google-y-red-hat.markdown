@@ -1,4 +1,5 @@
----  
+
+---
 date: 2008-09-16 04:31:00+00:00  
 slug: apple-google-y-red-hat  
 title: Apple, Google y Red Hat.  
@@ -6,7 +7,8 @@ tags:
 - debian-es  
 - internerds  
 - rants  
----  
+
+---
   
 Paso un tiempo desde la ultima vez que escribi algo en el blog, y todo sabemos que en la net las noticias vuelan, pero hoy en particular voy a hablar de Apple, Google y Red Hat.    
     

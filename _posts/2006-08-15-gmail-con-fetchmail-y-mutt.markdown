@@ -1,10 +1,12 @@
----  
+
+---
 date: 2006-08-15 03:00:00+00:00  
 slug: gmail-con-fetchmail-y-mutt  
 title: gmail con fetchmail y mutt  
 tags:  
 - debian-es  
----  
+
+---
   
 Bueno, resulta que estaba aburrido, asi que decidi meter mano en el gnulinux de turno (hola ubuntu) e instalarme esos horribles (?) paquetes que corren desde la consola.  
 la cuestion es que me puse a investigar en lo del [tio google](http://www.google.com/search?q=fetchmail+gmail) a ver que consejo me daba. en este caso me aconsejo que siga estos caminos:    

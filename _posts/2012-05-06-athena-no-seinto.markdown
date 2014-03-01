@@ -1,4 +1,5 @@
----  
+
+---
 date: 2012-05-06 21:54:47+00:00  
 slug: athena-no-seinto  
 title: athena no seinto.  
@@ -7,7 +8,8 @@ tags:
 - gggg  
 - o/  
 - vida  
----  
+
+---
   
 la luz de la cocina, como la mayoria de las luces de la cocina, tarda en prender entonces cada vez que voy a buscar agua o coca o algo para (beber|tomar) la secuencia es la siguiente:  
 - entro con el vaso en la mano.  

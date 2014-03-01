@@ -1,11 +1,13 @@
----  
+
+---
 date: 2008-01-15 05:44:00+00:00  
 slug: uso-basico-del-gnu-screen  
 title: Uso basico del GNU Screen  
 tags:  
 - debian-es  
 - guia  
----  
+
+---
   
 Bueno, hace mucho que no escribo nada en este blog asi que paso a copipastear una brevisima explicacion del Screen que escribi hace un tiempin y de yapa unos comanditos / hotkeys basicos para usarlo un poco.    
 Obviamente le faltan mil cosas y se podria mejorar un poco mas, pero bueno, abajo de todo hay unos links donde van a encontrar un poco mas de info sobre el screen y eso.    

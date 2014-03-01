@@ -1,4 +1,5 @@
----  
+
+---
 date: 2008-05-23 04:51:00+00:00  
 slug: monitoreando-svn-desde-la-web-con-python  
 title: monitoreando svn desde la web con python  
@@ -7,7 +8,8 @@ tags:
 - guia  
 - pasatiempo  
 - python  
----  
+
+---
   
 Por alguna razon estaba viendo la [cuenta de flickr de last.fm](http://flickr.com/photos/lastfm/) y me encontre con [esto](http://flickr.com/photos/lastfm/2493931213/sizes/o/), que si miran la parte izquierda-superior de la imagen, van a ver un monitor en una pared con un fondo azul que dice algo asi:    
     

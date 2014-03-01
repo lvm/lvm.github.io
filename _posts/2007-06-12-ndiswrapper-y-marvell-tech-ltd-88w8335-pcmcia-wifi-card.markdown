@@ -1,4 +1,5 @@
----  
+
+---
 date: 2007-06-12 00:42:00+00:00  
 slug: ndiswrapper-y-marvell-tech-ltd-88w8335-pcmcia-wifi-card  
 title: ndiswrapper y marvell tech ltd 88w8335 (pcmcia wifi card)  
@@ -6,7 +7,8 @@ tags:
 - debian  
 - debian-es  
 - guia  
----  
+
+---
   
 bueno    
 logre hacer funcionar a la jodida placa desconocida para todo el mundo en debian lenny.    

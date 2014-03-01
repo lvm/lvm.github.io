@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-04-18 22:09:00+00:00  
 slug: firebug-con-epiphany-greasemonkey  
 title: Firebug con Epiphany + greasemonkey  
@@ -7,7 +8,8 @@ tags:
 - javascript  
 - navegadores  
 - programadores  
----  
+
+---
   
 Ultimamente el Iceweasel/Firefox me esta andando bastante mal y hasta por momentos se me freezea por unos segundos lo que hace que sea inutilizable, asi que le di una nueva chance al amigable Epiphany que siempre me andubo bien y tiene todo lo que necesito.. salvo por una cosa: [Firebug](http://getfirebug.com/), la mejor extension de las internets para combatir frente a JavaScript. Asi que no me quedaba otra mas que seguir usando Iceweasel, o al menos cuando estaba haciendo algo _productivo_.     
   

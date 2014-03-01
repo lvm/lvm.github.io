@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-08-05 23:07:00+00:00  
 slug: agregando-buscadores-personalizados-al-firefoxiceweasel  
 title: Agregando buscadores personalizados al firefox/iceweasel  
@@ -6,7 +7,8 @@ tags:
 - debian-es  
 - navegadores  
 - pasatiempo  
----  
+
+---
   
 Hace unas semanas estaba buscando constantemente bugs en el [BTS](http://bugs.debian.org/) de [Debian](http://debian.org), pero me estaba cansando de escribir la direccion todo el tiempo, asi que recorde a [mycroft](http://mycroft.mozdev.org/) que nos permite agregar a partir de un listado, pero no era eso lo que yo queria, sino algo mas sencillo. Ahi fue cuando se me prendio la lamparita y me puse a revisar en _/usr/share/iceweasel/_ donde encontre un directorio bastante obvio: searchplugins. :-)  
 Solo basto hacer:  

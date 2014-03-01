@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-03-18 22:51:00+00:00  
 slug: simple-smtp-con-python  
 title: simple SMTP con Python  
@@ -6,7 +7,8 @@ tags:
 - debian-es  
 - guia  
 - python  
----  
+
+---
   
 Alguna que otra vez me encontre con el problema de que necesitaba enviar mails    
 desde la consola, pero no tenia configurado nada para hacerlo, o porque no    

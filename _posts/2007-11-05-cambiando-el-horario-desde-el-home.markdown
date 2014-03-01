@@ -1,11 +1,13 @@
----  
+
+---
 date: 2007-11-05 13:51:00+00:00  
 slug: cambiando-el-horario-desde-el-home  
 title: Cambiando el horario desde el home. ( ~/ )  
 tags:  
 - debian-es  
 - guia  
----  
+
+---
   
 La cosa era asi, tengo una cuenta en un servidor freeshell, pero este servidor esta no se. en algun pais de por ahi (?) y tiene una zona horaria distinta (-0600) a la de aca (-0300), y como generalmente lo uso para entrar al irc con irssi siempre tenia los horarios 3 hs antes (redundancia++), si hubiera tenido acceso de root o algo que me permitiera modificar el /etc/localtime no hubiera sido mucho problema pero como no er asi, necesitaba otra solucion.    
 Googleando un poquito encontre esta solucion que me salvo la vida (?):    

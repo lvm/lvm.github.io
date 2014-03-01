@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-04-13 09:09:00+00:00  
 slug: reportando-bugs-en-debian-manualmente  
 title: reportando bugs en Debian, manualmente  
@@ -7,7 +8,8 @@ tags:
 - debian-es  
 - etc  
 - pasatiempo  
----  
+
+---
   
 Ayer leia el blog de [humitos](http://humitos.wordpress.com/), y habia posteado sobre [su experiencia para reportar bugs en debian](http://humitos.wordpress.com/2009/02/26/reportar-un-bug-en-debian/). Como soy un tipo mas que simpatico (?), le deje un comentario explicando brevemente como podia reportar solamente enviando mails de forma alternativa. Y como me parecio algo interesante para compartir paso a explicarlo nuevamente, pero esta vez tratando de extenderme un poco en que tipo de datos suele usar reportbug.    
   

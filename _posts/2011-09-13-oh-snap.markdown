@@ -1,4 +1,5 @@
----  
+
+---
 date: 2011-09-13 10:03:36+00:00  
 slug: oh-snap  
 title: oh snap.  
@@ -7,6 +8,7 @@ tags:
 - funny  
 - vida  
 - wat  
----  
+
+---
   
 hace eones (?) que tengo al nickname lavaramano, pero quien hubiera pensado que a#os mas tarde terminaria lavandome la ropa a mano.  

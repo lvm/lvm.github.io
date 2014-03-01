@@ -1,9 +1,11 @@
----  
+
+---
 date: 2011-12-31 09:52:35+00:00  
 slug: motd-org  
 title: motd.org  
 tags:  
 - blog  
----  
+
+---
   
 esta bueno el dominio y funciona *rapido*. Mucho mas rapido que wordpress.com  

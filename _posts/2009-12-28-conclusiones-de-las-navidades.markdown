@@ -1,11 +1,13 @@
----  
+
+---
 date: 2009-12-28 14:59:00+00:00  
 slug: conclusiones-de-las-navidades  
 title: Conclusiones de las navidades.  
 tags:  
 - etc  
 - vida  
----  
+
+---
   
 Recien hablando con un amigo, recordando los grandes recuerdos (?) de la navidad pasada, llegamos a una magica conclusion.  
 Recuerdo cuando era chico y si bien ya no creia en _papa noel_ o cosas asi, todavia me seguian regalando cosas copadas en navidad, tambien recuerdo como gradualmente estos regalos copados iban siendo reemplazados sutilmente por cosas que uno _puede_ llegar a necesitar, como un calzoncillo o un par de medias pero que si los llegara a necesitar probablemente iria a comprarlos, por lo que no quiero que me regalen un puto par de medias, quiero algo que este bueno. Pero luego uno encuentra alguien que decide compartir su vida con uno y volvemos otra vez a la epoca dorada de los regalos copados donde somos malcriados como pocas veces en la vida, todo para que algun buen dia eso se acabe y otra vez uno vuelva a los _queridisimos_ regalos del sector de higiene personal del supermercado de turno.  

@@ -1,4 +1,5 @@
----  
+
+---
 date: 2007-10-05 09:55:00+00:00  
 slug: ween-weechat-y-pynotify-de-la-mano  
 title: 'ween: weechat y pynotify de la mano.'  
@@ -7,7 +8,8 @@ tags:
 - irc  
 - pasatiempo  
 - python  
----  
+
+---
   
 Ultimamente estoy bastante tiempo en irc, por eso posteo poco (?).    
 [Weechat](http://weechat.flashtux.org/) siendo mi cliente de preferencia, un cliente que lo tiene todo... todo salvo un plugin que te avisara cuando te hablaban. Como no podia dejar que la vida continue asi (?), hice un lindo plugin para eso: [Ween](http://weechat.flashtux.org/scripts/notify.py) (weechat-notifier... y por la banda tambien (?))    

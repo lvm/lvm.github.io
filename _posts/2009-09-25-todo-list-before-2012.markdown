@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-09-25 17:47:00+00:00  
 slug: todo-list-before-2012  
 title: TODO-list before 2012  
@@ -6,7 +7,8 @@ tags:
 - debian-en  
 - o/  
 - todo  
----  
+
+---
   
 Among other random-stuff, I have this mental-TODO list for quite some time, just in case we dissapear (probably it'll be just like in Y2K):  
   

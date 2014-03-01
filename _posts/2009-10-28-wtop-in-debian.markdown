@@ -1,4 +1,5 @@
----  
+
+---
 date: 2009-10-28 16:07:00+00:00  
 slug: wtop-in-debian  
 title: wtop in Debian  
@@ -6,7 +7,8 @@ tags:
 - apps  
 - debian-en  
 - python  
----  
+
+---
   
 A couple (?) of days ago, I uploaded [wtop](http://code.google.com/p/wtop/) to the archives (more precisely, to [experimental](http://packages.debian.org/experimental/wtop)), but what does this little tool do? Quoting directly from the project's page:  
   
