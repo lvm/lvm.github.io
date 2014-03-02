@@ -57,15 +57,6 @@
       $(settings.q).val('');
       $(settings.content).html('');
       this.parse_markdown($(settings.content), md_path);
-      /*
-      content.load(md_path,
-                   function(md, st, xhr) {
-                     if( st == "error" ){ alert("Something went wrong :C"); }
-                     else{
-                        content.html( sdmd.makeHtml(md) );
-                     }
-                   });
-                   */
     });
 
     this.get(settings.routes.search + ':q', function(context){
