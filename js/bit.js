@@ -9,6 +9,7 @@
                   null:'#null',
                   q: '#q',
                   btn: '#btn',
+                  top: 'a[href="#top"]',
                   routes: {root: '#/', posts: '#/p/', search: '#/s/'},
                   };
   var sdmd = new Showdown.converter();
@@ -73,10 +74,27 @@
   });
 
   $(function() {
+    // FIXME.
+    var redirect = function(href){ window.location.href = href };
+
     $(settings.btn).on('click', function(){
-      // FIXME.
-      window.location.href = settings.routes.search + $(settings.q).val();
+      redirect(settings.routes.search + $(settings.q).val());
     });
+
+    $(settings.q).on('keypress', function(e){
+      var code = e.keyCode || e.which;
+      if(code == 13) {
+        e.preventDefault();
+        if( $(settings.q).val().length<1 ){ redirect(settings.routes.root); }
+        else{ $(settings.btn).trigger('click'); }
+      }
+    });
+
+    $(settings.top).on('click', function(e){
+      e.preventDefault();
+      $("html, body").animate({scrollTop:0}, 500);
+    });
+
     app.run('#/');
   });
 })(jQuery);
