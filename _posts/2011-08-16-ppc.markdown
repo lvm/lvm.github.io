@@ -23,7 +23,8 @@ hoy me compre otra (?), solo que esta vez es una powerbook g4, perfecta para lee
 Update:  
   
 specs:  
-`$ cat /proc/cpuinfo   
+```
+$ cat /proc/cpuinfo   
 processor       : 0  
 cpu             : 7447A, altivec supported  
 clock           : 1499.999000MHz  
@@ -57,5 +58,5 @@ $ lspci
 0002:24:0d.0 Unassigned class [ff00]: Apple Computer Inc. UniNorth/Intrepid ATA/100  
 0002:24:0e.0 FireWire (IEEE 1394): Apple Computer Inc. UniNorth 2 FireWire (rev 81)  
 0002:24:0f.0 Ethernet controller: Apple Computer Inc. UniNorth 2 GMAC (Sun GEM) (rev 80)  
-`  
+```  
   
