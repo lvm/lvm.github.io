@@ -1,6 +1,6 @@
 ;(function($) {
   var settings = {api_url: 'https://api.github.com/search/code?q=',
-                  api_params: '+in:_posts+extension:markdown+repo:lvm/lvm.github.io'
+                  api_params: '+in:_posts+extension:markdown+repo:lvm/lvm.github.io',
                   path: '_posts/',
                   index: 'index.markdown',
                   md_ext: '.markdown',
