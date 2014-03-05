@@ -1,6 +1,6 @@
 ;(function($) {
-  var settings = {'api_url': 'https://api.github.com/search/code?q=',
-                  repo: '+repo:lvm/lvm.github.io',
+  var settings = {api_url: 'https://api.github.com/search/code?q=',
+                  api_params: '+in:_posts+extension:markdown+repo:lvm/lvm.github.io'
                   path: '_posts/',
                   index: 'index.markdown',
                   md_ext: '.markdown',
@@ -19,7 +19,7 @@
       var app = this;
       var can_do_cb = typeof(cb) === "function" ? 1:0;
       if( q.length<1 ){ return; }
-      $.getJSON(settings.api_url + q + settings.repo + '&callback=?')
+      $.getJSON(settings.api_url + q + settings.api_params + '&callback=?')
        .done(function(json) {
          if( json.meta.status == 200 ){
            if( json.data.items.length > 0 ){
@@ -38,30 +38,25 @@
 
     app.helper('parse_markdown', function(elem, md_path, is_search){
       if( is_search && md_path.indexOf(settings.index) !== -1 ){ return; }
-      if( md_path.indexOf(settings.md_ext) !== -1 ){
-        var _null = $(settings.null);
-        var post_path = settings.routes.posts + md_path.replace(settings.path, '');
-        _null.load(md_path,
-                  function(md, st, xhr) {
-                    if( st == "error" ){ alert("Something went wrong :C"); }
-                    else{
-                      elem.append( sdmd.makeHtml(md) );
-                      elem.append( sdmd.makeHtml('[permalink]('+ post_path +')') );
-                      elem.append( sdmd.makeHtml('[source]('+ md_path +')') );
-                      _null.html('');
-                    }
-                  });
-       }
+      var _null = $(settings.null);
+      var post_path = settings.routes.posts + md_path.replace(settings.path, '');
+      _null.load(md_path,
+                 function(md, st, xhr) {
+                   if( st == "error" ){ alert("Something went wrong :C"); }
+                   else{
+                     elem.append( sdmd.makeHtml(md) );
+                     elem.append( sdmd.makeHtml('[permalink]('+ post_path +')') );
+                     elem.append( sdmd.makeHtml('[source]('+ md_path +')') );
+                     _null.html('');
+                   }
+                 });
     });
-
 
     app.helper('post_list', function(elem, md_path, is_search){
       if( is_search && md_path.indexOf(settings.index) !== -1 ){ return; }
-      if( md_path.indexOf(settings.md_ext) !== -1 ){
-        var post_path = settings.routes.posts + md_path.replace(settings.path, '');
-        var post_name = md_path.replace(settings.path, '').replace(settings.md_ext, '');
-        elem.append( sdmd.makeHtml('  * ['+ post_name + ']('+ post_path +')') );
-       }
+      var post_path = settings.routes.posts + md_path.replace(settings.path, '');
+      var post_name = md_path.replace(settings.path, '').replace(settings.md_ext, '');
+      elem.append( sdmd.makeHtml('  * ['+ post_name + ']('+ post_path +')') );
     });
 
     this.get(settings.routes.root, function(context) {
