@@ -6,24 +6,27 @@
                   md_ext: '.markdown',
                   source: 'p strong a',
                   content: '#content',
-                  null:'#null',
+                  null: '#null',
                   q: '#q',
                   btn: '#btn',
                   top: 'a[href="#top"]',
-                  routes: {root: '#/', posts: '#/p/', search: '#/s/'},
+                  routes: {root: '#/', posts: '#/p/', search: '#/s/', verbose_search: '#/s/verbose/'},
                   };
   var sdmd = new Showdown.converter();
 
   var app = Sammy(settings.content, function(app) {
-    app.helper('query_github', function(q, elem){
+    app.helper('query_github', function(q, elem, cb){
       var app = this;
+      var can_do_cb = typeof(cb) === "function" ? 1:0;
       if( q.length<1 ){ return; }
       $.getJSON(settings.api_url + q + settings.repo + '&callback=?')
        .done(function(json) {
          if( json.meta.status == 200 ){
            if( json.data.items.length > 0 ){
              for(var i=0;i<json.data.items.length;i++){
-               app.parse_markdown(elem, json.data.items[i].path, true);
+               if( can_do_cb ){
+                cb(elem, json.data.items[i].path, true);
+               }
              }
            }
          }
@@ -51,6 +54,16 @@
        }
     });
 
+
+    app.helper('post_list', function(elem, md_path, is_search){
+      if( is_search && md_path.indexOf(settings.index) !== -1 ){ return; }
+      if( md_path.indexOf(settings.md_ext) !== -1 ){
+        var post_path = settings.routes.posts + md_path.replace(settings.path, '');
+        var post_name = md_path.replace(settings.path, '').replace(settings.md_ext, '');
+        elem.append( sdmd.makeHtml('  * ['+ post_name + ']('+ post_path +')') );
+       }
+    });
+
     this.get(settings.routes.root, function(context) {
       context.redirect(settings.routes.posts + settings.index);
     });
@@ -67,7 +80,14 @@
       var q = this.params['q'];
       $(settings.content).html('');
       $(settings.q).val(q);
-      this.query_github(q, $(settings.content));
+      this.query_github(q, $(settings.content), this.post_list);
+    });
+
+    this.get(settings.routes.verbose_search + ':q', function(context){
+      var q = this.params['q'];
+      $(settings.content).html('');
+      $(settings.q).val(q);
+      this.query_github(q, $(settings.content), this.parse_markdown);
     });
 
 
