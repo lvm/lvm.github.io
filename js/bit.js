@@ -1,8 +1,9 @@
 ;(function($) {
-  var settings = {api_url: 'https://api.github.com/search/code?q=',
-                  api_params: '+in:_posts+extension:markdown+repo:lvm/lvm.github.io',
+  var settings = {api_url: 'https://api.github.com/',
+                  api_search_path: 'search/code?q=',
+                  api_search_params: '+in:_posts+extension:markdown+repo:lvm/lvm.github.io',
+                  api_index_path: 'repos/lvm/lvm.github.io/contents/_posts',
                   path: '_posts/',
-                  index: 'index.markdown',
                   md_ext: '.markdown',
                   source: 'p strong a',
                   content: '#content',
@@ -10,16 +11,37 @@
                   q: '#q',
                   btn: '#btn',
                   top: 'a[href="#top"]',
-                  routes: {root: '#/', posts: '#/p/', search: '#/s/', verbose_search: '#/s/verbose/'},
+                  routes: {root: '#/', index: '#/index/', posts: '#/p/', search: '#/s/', verbose_search: '#/s/verbose/'},
                   };
   var sdmd = new Showdown.converter();
 
   var app = Sammy(settings.content, function(app) {
+    app.helper('index', function(elem, cb){
+      var app = this;
+      var can_do_cb = typeof(cb) === "function" ? 1:0;
+      if( q.length<1 ){ return; }
+      $.getJSON(settings.api_url + settings.api_index_path)
+       .done(function(json) {
+           json = json.reverse() // this way we obtain the post list in DESC order.
+           if( json.length > 0 ){
+             for(var i=0;i<json.length;i++){
+               if( can_do_cb ){
+                 cb(elem, json[i].path, true);
+               }
+             }
+           }
+       })
+       .fail(function(jqxhr, textStatus, error) {
+               alert("Something went wrong :C \n" + textStatus + ": "+ error);
+             });
+    });
+
     app.helper('query_github', function(q, elem, cb){
       var app = this;
       var can_do_cb = typeof(cb) === "function" ? 1:0;
       if( q.length<1 ){ return; }
-      $.getJSON(settings.api_url + q + settings.api_params + '&callback=?')
+      $.getJSON(settings.api_url + settings.api_search_path + q +
+                settings.api_search_params + '&callback=?')
        .done(function(json) {
          if( json.meta.status == 200 ){
            if( json.data.items.length > 0 ){
@@ -36,8 +58,7 @@
              });
     });
 
-    app.helper('parse_markdown', function(elem, md_path, is_search){
-      if( is_search && md_path.indexOf(settings.index) !== -1 ){ return; }
+    app.helper('parse_markdown', function(elem, md_path){
       var _null = $(settings.null);
       var post_path = settings.routes.posts + md_path.replace(settings.path, '');
       _null.load(md_path,
@@ -52,15 +73,20 @@
                  });
     });
 
-    app.helper('post_list', function(elem, md_path, is_search){
-      if( is_search && md_path.indexOf(settings.index) !== -1 ){ return; }
+    app.helper('post_list', function(elem, md_path){
       var post_path = settings.routes.posts + md_path.replace(settings.path, '');
       var post_name = md_path.replace(settings.path, '').replace(settings.md_ext, '');
       elem.append( sdmd.makeHtml('  * ['+ post_name + ']('+ post_path +')') );
     });
 
     this.get(settings.routes.root, function(context) {
-      context.redirect(settings.routes.posts + settings.index);
+      context.redirect(settings.routes.index);
+    });
+
+
+    this.get(settings.routes.index, function(context){
+      $(settings.content).html('');
+      this.index($(settings.content), this.post_list);
     });
 
     this.get(settings.routes.posts + ':file', function(context){
