@@ -1,0 +1,17 @@
+---
+  
+date: 2014-04-04 05:04:00-03:00  
+slug: m5k  
+title: m5k  
+tags:  
+- pasatiempo  
+- livecoding  
+- muzzak  
+- python  
+  
+---
+  
+
+Hace mucho tiempo atras habia empezado a escribir un script, que luego se transformo en un modulo y luego en una bola de codigo inmantenible; se llamaba `tr3`.  
+Hace poco tiempo atras agarre ese codigo, me quede con las ideas que mas me interesaba mantener y me puse a reescribir desde cero; ahora se llama `m5k`.  
+El codigo todavia esta bastante verde y muy probablemente sufra muchos cambios, pero de todas formas esta publicado [aca](https://github.com/lvm/m5k). Por ahora simplemente se pueden listar archivos de sonido, crear archivos de texto con conjuntos de comandos, y obviamente, reproducir archivos de sonido. La idea es que eventualmente sirva como entorno de `livecoding`, aunque realmente me interesa mas que sea un interprete de comandos donde uno pueda escribir palabras que reproduzcan sonidos. 
