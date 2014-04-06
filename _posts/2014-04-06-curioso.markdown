@@ -1,0 +1,15 @@
+---
+  
+date: 2014-04-04 05:04:00-03:00  
+slug: curioso  
+title: curioso  
+tags:  
+- micro$oft  
+- git  
+- odd  
+
+---
+  
+
+Micro$oft "libero" (no me detuve a ver exactamente la licencia) un [compilador de C# y Visual Basic](http://roslyn.codeplex.com/), pero lo curioso no es esto sino el hecho de que esten usando [git](http://www.git-scm.com/).  
+Es decir, Micro$oft usando el sistema de versiones creado por el autor de Linux. Esto es, cuando menos, curioso.
