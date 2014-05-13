@@ -1,0 +1,15 @@
+
+---
+date: 2014-05-13 00:00:00+00:00  
+slug: 'm-x-xiqi'  
+title: m-x xiqi  
+tags:  
+- livecoding  
+- muzzak  
+- haskell  
+- tidal  
+
+---
+  
+Y asi nace otra subpersona para esta persona que escribe aqui.  
+[M-x xiqi](https://soundcloud.com/xiqi).
