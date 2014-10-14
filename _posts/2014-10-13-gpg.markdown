@@ -1,0 +1,16 @@
+
+---
+date: 2014-10-13 99:00:00+00:00  
+slug: 'gpg'  
+title: GPG.  
+tags:  
+- internerds  
+- internet  
+- \o/  
+- vida  
+- debian  
+- rants
+
+---
+  
+Siempre me resulto muy curioso que la mejor manera de comprobar que /alguien de internet/ es realmente quien dice ser, es encontrarse en persona con papelitos impresos (o escritos a mano) y documentos [0], intercambiar estos y asentir con la mejor cara de confianza que logremos expresar. Mientras mas de estos intercambios logremos concretar, es porque mas gente realmente cree en quien decimos ser. 
