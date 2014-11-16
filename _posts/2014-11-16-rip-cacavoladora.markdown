@@ -4,9 +4,9 @@ slug: 'rip-cacavoladora'
 title: RIP CacaVoladora  
 tags:  
 - internerds  
-- o/
-- gggg
-- vida
+- o/  
+- gggg  
+- vida  
 
 ---
 
