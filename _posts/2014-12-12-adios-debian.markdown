@@ -4,7 +4,7 @@ date: 2009-09-25 17:47:00+00:00
 slug: adios-debian  
 title: Adios Debian  
 tags:  
-- debian
+- debian  
 - life  
 
 ---
