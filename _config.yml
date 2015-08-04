@@ -5,5 +5,5 @@ description: lvm.github.io
 
 # Build settings
 markdown: kramdown
-permalink:    pretty
+#permalink:    pretty
 exclude: ["README.md"]
