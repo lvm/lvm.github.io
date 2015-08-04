@@ -1,26 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>23 chambers</title>
-  </head>
-  <body>
-          <p>El RF2616 define al <a href="https://tools.ietf.org/html/rfc2616#section-10.4.5">error del <em>cliente</em> 404</a> como:</p>
+---
+layout: default
+---
 
-            <pre>
-              The server has not found anything matching the Request-URI. No
-              indication is given of whether the condition is temporary or
-              permanent. The 410 (Gone) status code SHOULD be used if the server
-              knows, through some internally configurable mechanism, that an old
-              resource is permanently unavailable and has no forwarding address.
-              This status code is commonly used when the server does not wish to
-              reveal exactly why the request has been refused, or when no other
-              response is applicable.
-            </pre>
+The RF2616 defines the [*cliente* error 404](https://tools.ietf.org/html/rfc2616#section-10.4.5) as follows:  
 
-            <p>Es decir, el servidor decidio que el contenido que estas buscando es informacion confidencial.</p>
-  </body>
-</html>
 
+    The server has not found anything matching the Request-URI. No
+    indication is given of whether the condition is temporary or
+    permanent. The 410 (Gone) status code SHOULD be used if the server
+    knows, through some internally configurable mechanism, that an old
+    resource is permanently unavailable and has no forwarding address.
+    This status code is commonly used when the server does not wish to
+    reveal exactly why the request has been refused, or when no other
+    response is applicable.
+
+
+In other words, the server decided that the content you're looking for is confidential.

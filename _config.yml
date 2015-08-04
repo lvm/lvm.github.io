@@ -1,0 +1,9 @@
+# Site settings
+title: 
+tag_text: hi, i'm mauro
+description: lvm.github.io
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
