@@ -20,7 +20,7 @@ i enjoy *code golfing*, learning about esoteric languages, coding music and that
 
 go ahead!
 
-<form class="form" action="//formspree.io/mauro@cyberdeck.pw" method="POST">
+<form class="form" action="https://formspree.io/mauro@cyberdeck.pw" method="POST">
       <input type="text" name="_gotcha" style="display:none" />
       <input type="email" id="mail" placeholder="your mail address" name="_replyto"><br/>
       <input type="text" id="mail" placeholder="your message" name="_subject"><br/>
