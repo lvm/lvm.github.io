@@ -1,9 +1,8 @@
 # Site settings
 title: cpw
-tag_text: hi, i'm mauro
+tag_text: hi
 description: lvm.github.io
 
 # Build settings
 markdown: kramdown
-#permalink:    pretty
 exclude: ["README.md"]
