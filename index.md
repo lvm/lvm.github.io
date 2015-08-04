@@ -2,7 +2,7 @@
 layout: default
 ---
 
-i'm a ~~human-cyborg relations~~ software developer currently living in buenos aires, argentina.  
+i'm a software developer currently living in buenos aires, argentina.  
 i enjoy *code golfing*, learning about esoteric languages, coding music and that sort of **creative programming**.  
 
 ## Current projects
