@@ -10,6 +10,7 @@ i enjoy *code golfing*, learning about esoteric languages, coding music and that
 ## current projects
 
 * [braincandy](http://braincandy.com.ar), a web development collective from bs as, argentina.
+* [diacritic as a service](http://diacritic.braincandy.com.ar), send a letter, receive its diacritics.
 * [cyberdelia.xyz](http://www.cyberdelia.xyz/), plain text plasma from the 23rd century.
 * [ika g](http://ikag.github.io/), a livecoding duo focused on music.
 * [bit](http://bit.cyberdeck.pw/), my cute weblog.
