@@ -5,7 +5,6 @@ layout: default
 # hi
 
 i'm mauro, a software developer currently living in buenos aires, argentina.  
-i enjoy *code golfing*, learning about esoteric languages, coding music and that sort of **creative programming**.  
 
 ## current projects
 
