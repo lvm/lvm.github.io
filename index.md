@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [`[]. `](http://brackets.space) 
+# [`[].   `](http://brackets.space) 
 
 
 hi, i'm mauro, a software developer currently living in buenos aires, argentina.  
