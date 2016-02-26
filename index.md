@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# hi
+# [`[]. `](http://brackets.space) 
 
-i'm mauro, a software developer currently living in buenos aires, argentina.  
+
+hi, i'm mauro, a software developer currently living in buenos aires, argentina.  
 
 ## current projects
 
