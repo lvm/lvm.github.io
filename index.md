@@ -13,13 +13,14 @@ hi, i'm mauro, a software developer currently living in buenos aires, argentina.
 
 * [braincandy](http://braincandy.com.ar), a web development collective from bs as, argentina.
 * [diacritic as a service](http://diacritic.braincandy.com.ar), send a letter, receive its diacritics.
-* [23chambers](http://23chambers.ninja/), a one-man-game-making-team, also present at [itch.io](http://23chambers.itch.io/).
+* [23chambers](http://23c.cyberpunk.com.ar/), a one-man-game-making-team, also present at [itch.io](http://23chambers.itch.io/).
 * [cyberdelia.xyz](http://www.cyberdelia.xyz/), plain text plasma from the 23rd century.
 * [ika g](http://ikag.github.io/), a livecoding duo focused on music.
 * [bit](http://bit.brackets.space/), my cute weblog.
 * [despuesdelzoia](http://asc.brackets.space/), an on-going? wall of pseudo-3d ascii art.
 * [soundcloud](https://soundcloud.com/1vm), from source code to audio.
-* [vimeo](https://vimeo.com/xiqi), from source code to video.
+* [vimeo](https://vimeo.com/1vm), from source code to video.
+* [youtube](https://www.youtube.com/channel/UCjRm4oKqLKQ0VvfTHLRAC2Q/videos), from source code to video (mirror of vimeo).
 * [github](https://github.com/lvm), from source code to source code.
 
 ## want to drop me a line?
