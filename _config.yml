@@ -1,9 +1,0 @@
-# Site settings
-title: {[()]} 
-tag_text: hi
-description: lvm.github.io
-baseurl: "/"
-
-# Build settings
-markdown: kramdown
-exclude: ["README.md"]
