@@ -28,3 +28,13 @@ body{
   from { transform: translate(100%, 0);  }
   to { transform: translate(-110%, 0%); }
 }
+
+header {
+  background: url('cyberpunknetar.gif') center center no-repeat;
+  display:block;
+  height: 50px;
+}
+
+header h1 {
+  display:none;
+}
