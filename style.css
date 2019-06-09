@@ -4,31 +4,6 @@ body{
   overflow-x:hidden;
 }
 
-.ramone{
-  -webkit-animation: marky 23s linear infinite;
-  -moz-animation: marky 23s linear infinite;
-  animation: marky 23s linear infinite;
-  padding:0 66px;
-  width:100%;
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  text-align:right;
-}
-
-@-webkit-keyframes marky {
-  from { transform: translate(100%, 0);  }
-  to { transform: translate(-100%, 0%); }
-}
-@-moz-keyframes marky {
-  from { transform: translate(100%, 0);  }
-  to { transform: translate(-110%, 0%); }
-}
-@keyframes marky {
-  from { transform: translate(100%, 0);  }
-  to { transform: translate(-110%, 0%); }
-}
-
 header {
   background: url('cyberpunknetar.gif') center center no-repeat;
   display:block;
@@ -37,4 +12,15 @@ header {
 
 header h1 {
   display:none;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+sup::before {
+  content: "(";
+}
+sup::after {
+  content: ")";
 }
