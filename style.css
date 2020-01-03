@@ -7,7 +7,7 @@ body{
 }
 
 header {
-  background: url('cyberpunknetar.gif') center center no-repeat;
+  background: url("cyberpunknetar.gif") center center no-repeat;
   display:block;
   height: 50px;
 }
@@ -25,4 +25,35 @@ sup::before {
 }
 sup::after {
   content: ")";
+}
+
+a:hover {
+  font-style: italic;
+}
+
+p {
+  width: 90%;
+  margin: auto;
+}
+p::before,
+p::after{
+  content: url('holoskull.gif');
+  height:50px;
+  padding:25px;
+}
+
+hr {
+  padding:10px;
+  background: url("fire.gif") center center no-repeat;
+  border:0px;
+  height:50px;
+}
+
+footer {
+  background: url("any_browser_computer.gif") bottom center no-repeat;
+  border:0px;
+  height:50px;
+  width:90%;
+  text-align:center;
+  padding:50px;
 }
