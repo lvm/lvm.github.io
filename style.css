@@ -27,6 +27,7 @@ body{
 header {
   background: url("images/cyberpar.png") center center no-repeat;
   display:block;
+  height:420px;
 }
 
 header h1 {
