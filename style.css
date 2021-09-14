@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'TopazPlus_a1200';
-  src: url('/assets/fonts/TopazPlus_a1200.woff2') format('woff2'),
-  url('/assets/fonts/TopazPlus_a1200.woff') format('woff'),
-  url('/assets/fonts/TopazPlus_a1200.ttf') format('truetype');
+  src: url('fonts/TopazPlus_a1200.woff2') format('woff2'),
+  url('fonts/TopazPlus_a1200.woff') format('woff'),
+  url('fonts/TopazPlus_a1200.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   -webkit-font-kerning: none;
