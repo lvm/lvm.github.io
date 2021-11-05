@@ -1,33 +1,15 @@
-@font-face {
-  font-family: 'TopazPlus_a1200';
-  src: url('fonts/TopazPlus_a1200.woff2') format('woff2'),
-  url('fonts/TopazPlus_a1200.woff') format('woff'),
-  url('fonts/TopazPlus_a1200.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  -webkit-font-kerning: none;
-  font-kerning: none;
-  font-synthesis: none;
-  -webkit-font-variant-ligatures: none;
-  font-variant-ligatures: none;
-  font-variant-numeric: tabular-nums;
-  font-smooth: never !important;
-  -webkit-font-smooth : none !important;
-}
-
 html,
 body{
-  font-family: TopazPlus_a1200, Monaco, Menlo, Consolas, "Courier New", monospace;
   width:100%;
   overflow-x:hidden;
-  color: #bbb;
+  color: #0f0;
   background: #000;
 }
 
 header {
-  background: url("images/cyberpar.png") center center no-repeat;
+  background: url("cyberpunknetar.gif") center center no-repeat;
   display:block;
-  height:420px;
+  height: 50px;
 }
 
 header h1 {
@@ -45,11 +27,6 @@ sup::after {
   content: ")";
 }
 
-a {
-  color: #bbb;
-}
-
-
 a:hover {
   font-style: italic;
 }
@@ -58,9 +35,6 @@ p {
   width: 90%;
   margin: auto;
 }
-
-
-/*
 p::before,
 p::after{
   content: url('holoskull.gif');
@@ -83,4 +57,3 @@ footer {
   text-align:center;
   padding:50px;
 }
-*/
